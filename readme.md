@@ -1,5 +1,5 @@
 #### Notes
-Ongoing Large Personal Project involving many friends
+Ongoing Large Project
 
 
 #### Introduction
@@ -46,4 +46,5 @@ gInk supports multiple languages now. Here is how you can contribute translation
 gInk  
 https://github.com/geovens/gInk  
 Weizhi Nai @ 2020  
+
 
